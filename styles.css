@@ -1,0 +1,25 @@
+.profile-img{
+    border-radius: 80%;
+}
+
+
+.navbar{
+    background-color:white;
+}
+.container-fluid{
+    padding: 20%;
+    text-align: center;
+   
+}
+.search-bar{
+    padding-bottom: ;
+    border-radius: 20px ;
+    height: 40px;
+    width: 40%;
+}
+.logo{
+    padding-bottom: 20px;
+}
+.p{
+    padding-top: 20px;
+}
